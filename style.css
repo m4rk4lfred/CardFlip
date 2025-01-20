@@ -75,7 +75,7 @@ body{
 
 }
 
-@media screen and (min-width:414px) {
+@media screen and (min-device-width: 414px) and (max-device-width: 896px) {
     #boardTitle{
         display: flex;
         justify-content: center;
